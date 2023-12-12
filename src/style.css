@@ -1,0 +1,151 @@
+/*
+
+blue: #0072ce
+yellow: #ffb81c
+dark blue: #003087
+cyan: #6cace4
+white: #ffffff
+
+*/
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 110px;
+}
+
+.header img{
+    width: 200px;
+}
+
+.header-title{
+    color: #F0ECE5;
+}
+
+.site-header{
+    background-image: linear-gradient(to right, #31304D,#161A30);
+
+}
+
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #161A30;
+    margin: 10px;
+    padding: 0 5px 20px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.btn[disabled]{
+    opacity: .5;
+    cursor: not-allowed;
+}
+
+.counter{
+    display: flex;
+    align-items: center;
+    gap: 30px
+}
+
+.card-image{
+    width: 70px;
+}
+
+.card-info > p{
+    text-align: right;
+}
+
+.basket-container{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    min-width: 250px;
+    top: 0;
+    height: 100%;
+    background-color: #F0ECE5;
+
+}
+
+.btn{
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    background-color:#161A30;
+    color: #F0ECE5;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.btn:hover{
+    transform: scale(.96);
+}
+
+.card-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+.card-container img{
+    border-radius: 12px;
+}
+
+.card-title{
+    margin: 15px;
+}
+
+.fa-carrot{
+    margin-left: 15px;
+    font-size: 30px;
+    color: #ffb81c;
+}
+
+.centered-text{
+    text-align: center;
+}
+
+.card-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.card-info p{
+    font-size: 12px;
+}
+
+.counter p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #31304D;
+    padding: 7px 10px;
+    width: 50px;
+}
+
+.btn-add, .btn-remove{
+    width: 75px;
+}

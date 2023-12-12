@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Meet Balls",
+        "price": 12,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-1f61/k2-_51b3d518-9ede-4186-a0eb-03be0740689b.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 2,
+        "name": "Pumpkin Pie",
+        "price": 7,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d012/k2-_2fdd302c-48c7-4be7-a910-046c9948164c.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 3,
+        "name": "Croissant",
+        "price": 2,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-ea8d/k2-_69c045c9-226b-4407-932e-c1a8c6d4d372.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 4,
+        "name": "Pasta",
+        "price": 0.50,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-dcea/k2-_5ee618dc-5aab-4bc9-bd3e-4496934006f7.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 5,
+        "name": "Martinell's",
+        "price": 100,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-51af/k2-_373e520f-a1c4-4399-8cbb-7a93982b2380.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 6,
+        "name": "Coctail Syrup",
+        "price": 6.50,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-55ec/k2-_92b56f7b-8220-4165-baa3-9deabc9f7475.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 7,
+        "name": "Energy Drink",
+        "price": 1,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a91d/k2-_9cf8c2bf-e77a-44c0-8db6-b39cca9c7df7.v1.png?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    },
+    {
+        "id": 8,
+        "name": "Nesquik",
+        "price": 1.50,
+        "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-99c1/k2-_5fbdf23d-50e6-41f8-a20c-28efdf9f6e34.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF"
+    }
+]
