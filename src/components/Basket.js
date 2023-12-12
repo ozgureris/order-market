@@ -9,7 +9,7 @@ const Basket = ({basket, resetBasket, products}) => {
         {basket.map(item => (
         <BasketItem product={products.find(p => p.id === item.id)} item={item}/>
             ))}
-        {basket[0] && <button className='btn' onClick={resetBasket}>Sepeti Sıfırla</button> || 
+        {basket[0] && <button className='btn' onClick={resetBasket}>Delete All</button> || 
         <p className='centered-text'>Your card is empty right now!</p>}
     </div>
   )
